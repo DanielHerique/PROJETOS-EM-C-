@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\bin\Debug\net9.0\MaiorNumero.exe
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\bin\Debug\net9.0\MaiorNumero.deps.json
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\bin\Debug\net9.0\MaiorNumero.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\bin\Debug\net9.0\MaiorNumero.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\bin\Debug\net9.0\MaiorNumero.pdb
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\MaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\MaiorNumero.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\MaiorNumero.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\MaiorNumero.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\refint\MaiorNumero.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\MaiorNumero.pdb
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\MaiorNumero.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\MaiorNumero\obj\Debug\net9.0\ref\MaiorNumero.dll

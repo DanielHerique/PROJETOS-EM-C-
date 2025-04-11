@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\bin\Debug\net9.0\NomeSaudacao.exe
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\bin\Debug\net9.0\NomeSaudacao.deps.json
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\bin\Debug\net9.0\NomeSaudacao.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\bin\Debug\net9.0\NomeSaudacao.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\bin\Debug\net9.0\NomeSaudacao.pdb
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\NomeSaudacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\NomeSaudacao.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\NomeSaudacao.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\NomeSaudacao.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\NomeSaudacao.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\refint\NomeSaudacao.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\NomeSaudacao.pdb
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\NomeSaudacao.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\NomeSaudacao\obj\Debug\net9.0\ref\NomeSaudacao.dll

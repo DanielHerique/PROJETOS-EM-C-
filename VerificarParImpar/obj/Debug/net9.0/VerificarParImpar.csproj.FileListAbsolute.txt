@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\bin\Debug\net9.0\VerificarParImpar.exe
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\bin\Debug\net9.0\VerificarParImpar.deps.json
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\bin\Debug\net9.0\VerificarParImpar.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\bin\Debug\net9.0\VerificarParImpar.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\bin\Debug\net9.0\VerificarParImpar.pdb
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\VerificarParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\VerificarParImpar.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\VerificarParImpar.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\VerificarParImpar.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\VerificarParImpar.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\refint\VerificarParImpar.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\VerificarParImpar.pdb
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\VerificarParImpar.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\VerificarParImpar\obj\Debug\net9.0\ref\VerificarParImpar.dll
