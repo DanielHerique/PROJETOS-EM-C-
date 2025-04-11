@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\bin\Debug\net9.0\CalculandoIdade.exe
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\bin\Debug\net9.0\CalculandoIdade.deps.json
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\bin\Debug\net9.0\CalculandoIdade.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\bin\Debug\net9.0\CalculandoIdade.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\bin\Debug\net9.0\CalculandoIdade.pdb
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\CalculandoIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\CalculandoIdade.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\CalculandoIdade.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\CalculandoIdade.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\CalculandoIdade.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\refint\CalculandoIdade.dll
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\CalculandoIdade.pdb
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\CalculandoIdade.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\01 - VISUAL STUDIO CODE\03 periodo faculdade\C#\CalculandoIdade\obj\Debug\net9.0\ref\CalculandoIdade.dll
